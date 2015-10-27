@@ -1,0 +1,10 @@
+/build
+/docs
+/vendor
+/res
+/obj
+/target
+/reports
+
+.*.swp
+*.o
